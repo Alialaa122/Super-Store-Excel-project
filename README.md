@@ -48,12 +48,6 @@ Key columns include:
   - Conditional Formatting
   - Scatter Plots + Trendlines
   - Slicers
-  - Formulas: SUMIF, COUNTIF, DATEDIF, IF, CORREL
-
-📁 File Structure
-📂 Superstore Sales Dashboard
-├── Sample - Superstore.xlsx     # Raw and cleaned data
-├── README.md                    # Project overview
 
 ✍️ Author
 Ali Alaa
